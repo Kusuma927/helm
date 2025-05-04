@@ -1,0 +1,3 @@
+BACKEND_HOST: backend.devopsdaws82s.online
+APP_LOCAION: /usr/share/nginx/html
+COMPONENT: frontend
